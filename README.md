@@ -2,6 +2,8 @@
 
 An exploratory data analysis of 32 on-chain traders on Hyperliquid, examining how Bitcoin's Fear & Greed Index correlates with trader behaviour, PnL, and risk-adjusted performance across 2024.
 
+> 📓 [View rendered notebook on nbviewer](https://nbviewer.org/github/riddhimachat18/hyperliquid-sentiment-analysis/blob/main/hyperliquid_analysis.ipynb)
+
 ---
 
 ## Project Structure
